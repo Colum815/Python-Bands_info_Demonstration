@@ -1,0 +1,9 @@
+Write a program that allows the user to:
+1 Add a band,an album and the producer to a list.
+2 Search the list
+3 Find a band in the list
+4 Ablity to quit the program 
+
+menu to display to the user:
+Press 'a' to add a band     Press 's' to show the list
+Press 'f' to find a band    Press 'q' to quit
